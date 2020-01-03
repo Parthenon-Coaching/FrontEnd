@@ -28,7 +28,7 @@ function App() {
           <h1 className="mb-5">Coming Soon!</h1>
         </div>
         <div className="col-xl-9 mx-auto">
-          <h4 className="mb-5">We are currently working really hard to launch this site in January 2020! <br /> Our first round of invites will be send out soon!</h4>
+          <h4 className="mb-5">We are currently working really hard to launch this site in January 2020! <br /> Our first round of invites will be sent out soon!</h4>
         </div>
         <div className="col-md-10 col-lg-8 col-xl-7 mx-auto">
           {/* <form>
